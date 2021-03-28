@@ -1,0 +1,2 @@
+module GoogleCodeJam2021 {
+}
